@@ -50,7 +50,7 @@ SWEP.MidAirSpreadPenalty = 0.12 // spread penalty for being in the air
 SWEP.HipFireSpreadPenalty = 0.1 // spread penalty for not being scoped in
 SWEP.BlindFireSpreadPenalty = 0.05 // spread penalty for blind firing
 SWEP.CrouchSpreadPenalty = 0
-SWEP.ScopedSpreadPenalty = 0
+SWEP.ScopedSpreadPenalty = 0.04
 
 SWEP.RecoilPerShot = 1
 SWEP.RecoilMaximum = 1
@@ -102,7 +102,7 @@ SWEP.ClipSize = 7
 SWEP.Ammo = "buckshot"
 SWEP.ShotgunReload = true
 
-SWEP.ReloadTimeMult = 1
+SWEP.ReloadTimeMult = 1.05
 
 // sounds
 
@@ -164,7 +164,7 @@ SWEP.Attachments = {
         AttachSound = "tacint/weapons/optic_on.wav",
         DetachSound = "tacint/weapons/optic_off.wav",
         VMScale = 0.75,
-        Pos_VM = Vector(-2.75, 0, 8),
+        Pos_VM = Vector(-2.8, 0.3, 8),
         Ang_VM = Angle(90, 0, 0),
         Pos_WM = Vector(11, 0.85, -7),
         Ang_WM = Angle(-25, 3.5, 180),
@@ -189,8 +189,8 @@ SWEP.Attachments = {
         DetachSound = "tacint/weapons/flashlight_off.wav",
         InstalledElements = {"tactical"},
         VMScale = 1.25,
-        Pos_VM = Vector(-1, -0.3, 24),
-        Ang_VM = Angle(90, 0, -90),
+        Pos_VM = Vector(-0.5, 0.3, 27),
+        Ang_VM = Angle(90, 0, -180),
         Pos_WM = Vector(25, 0, -12),
         Ang_WM = Angle(-25, 3.5, 90),
     },
