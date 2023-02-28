@@ -11,3 +11,5 @@ Current weapons:
 - H&K XM8 [https://gamebanana.com/mods/210642]
 - Saiga 12 [https://gamebanana.com/mods/207365]
 - Raging Bull [https://gamebanana.com/mods/207745]
+- Five-seveN [https://gamebanana.com/mods/214378]
+- SG 550-1 [https://gamebanana.com/mods/211875]
