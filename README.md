@@ -13,3 +13,4 @@ Current weapons:
 - Raging Bull [https://gamebanana.com/mods/207745]
 - Five-seveN [https://gamebanana.com/mods/214378]
 - SG 550-1 [https://gamebanana.com/mods/211875]
+- PKM [https://gamebanana.com/mods/211944]
