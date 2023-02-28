@@ -10,3 +10,4 @@ Current weapons:
 - S&W M29 Satan [https://gamebanana.com/mods/207707]
 - H&K XM8 [https://gamebanana.com/mods/210642]
 - Saiga 12 [https://gamebanana.com/mods/207365]
+- Raging Bull [https://gamebanana.com/mods/207745]
