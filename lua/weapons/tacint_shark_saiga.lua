@@ -7,7 +7,7 @@ AddCSLuaFile()
 SWEP.PrintName = "Saiga 12"
 SWEP.Category = "RMC Interops (Heavy Weapons)"
 
-SWEP.Description = "Fully-automatic shotgun. Very powerful but very difficult to control."
+SWEP.Description = "Automatic mag-fed shotgun. Very powerful but very difficult to control."
 
 SWEP.ViewModel = "models/weapons/tacint_shark/v_saiga.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_ak47.mdl"
@@ -25,9 +25,9 @@ SWEP.Num = 6
 
 // misc. shooting
 
-SWEP.Firemode = 2
+SWEP.Firemode = 1
 
-SWEP.RPM = 500
+SWEP.RPM = 600
 
 SWEP.Spread = 0
 
