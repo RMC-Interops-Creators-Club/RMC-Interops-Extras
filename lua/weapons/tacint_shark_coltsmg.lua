@@ -217,7 +217,7 @@ local function addsound(name, spath)
     })
 end
 
-addsound("tacint_coltsmg.Remove_Clip", path1 .. "remove_clip.wav")
+addsound("tacint_coltsmg.Remove_Clip", path1 .. "m4_remove_clip.wav")
 addsound("tacint_coltsmg.Insert_Clip", path .. "magin.wav")
 addsound("tacint_coltsmg.Insert_Clip-mid", path .. "magin.wav")
 addsound("tacint_coltsmg.bolt_action", path1 .. "m4_bolt_action.wav")
