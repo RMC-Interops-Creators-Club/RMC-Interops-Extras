@@ -13,3 +13,6 @@ Current weapons:
 - SG 550-1 [https://gamebanana.com/mods/211875]
 - PKM [https://gamebanana.com/mods/211944]
 - S&W Model 500 [https://gamebanana.com/mods/207649]
+- RPK [https://gamebanana.com/mods/370688]
+- M1A1 Thompson [https://gamebanana.com/mods/209199]
+- Colt SMG [https://gamebanana.com/mods/395109]
