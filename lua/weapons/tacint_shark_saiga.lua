@@ -4,10 +4,10 @@ SWEP.Spawnable = true
 AddCSLuaFile()
 
 // names and stuff
-SWEP.PrintName = "Saiga 12"
+SWEP.PrintName = "Saiga-12k"
 SWEP.Category = "RMC Interops (Heavy Weapons)"
 
-SWEP.Description = "Automatic mag-fed shotgun. Very powerful but very difficult to control."
+SWEP.Description = "Semi-automatic 20 gauge mag-fed shotgun. Very powerful but very difficult to control. 8 pellets."
 
 SWEP.ViewModel = "models/weapons/tacint_shark/v_saiga.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_ak47.mdl"
@@ -16,12 +16,12 @@ SWEP.Slot = 2
 
 // "ballistics"
 
-SWEP.Damage_Max = 100 / 6 // damage at minimum range
+SWEP.Damage_Max = 100 / 8 // damage at minimum range
 SWEP.Damage_Min = 100 / 14 // damage at maximum range
 SWEP.Range_Min = 210 // distance for which to maintain maximum damage
 SWEP.Range_Max = 320 // distance at which we drop to minimum damage
 SWEP.Penetration = 3 // units of metal this weapon can penetrate
-SWEP.Num = 6
+SWEP.Num = 8
 
 // misc. shooting
 

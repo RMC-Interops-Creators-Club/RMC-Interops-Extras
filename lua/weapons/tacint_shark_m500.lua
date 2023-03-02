@@ -7,7 +7,7 @@ AddCSLuaFile()
 SWEP.PrintName = ".500 Magnum"
 SWEP.Category = "RMC Interops (Handguns)"
 
-SWEP.Description = "Massive revolver that's lethal up close but has incredible recoil."
+SWEP.Description = "Massive .500 Magnum revolver that's lethal up close but has incredible recoil."
 
 SWEP.ViewModel = "models/weapons/tacint_shark/v_500mag.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_mr96.mdl"

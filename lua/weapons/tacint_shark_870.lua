@@ -7,7 +7,7 @@ AddCSLuaFile()
 SWEP.PrintName = "R870 Magnum"
 SWEP.Category = "RMC Interops (Heavy Weapons)"
 
-SWEP.Description = "Well-rounded military shotgun with the ability to mount a silencer."
+SWEP.Description = "Well-rounded 12 gauge military shotgun with all-around good performance. 6 pellets."
 
 SWEP.ViewModel = "models/weapons/tacint_shark/v_870.mdl"
 SWEP.WorldModel = "models/weapons/tacint/w_bekas.mdl"
@@ -16,12 +16,12 @@ SWEP.Slot = 3
 
 // "ballistics"
 
-SWEP.Damage_Max = 100 / 8 // damage at minimum range
+SWEP.Damage_Max = 100 / 6 // damage at minimum range
 SWEP.Damage_Min = 100 / 12 // damage at maximum range
 SWEP.Range_Min = 300 // distance for which to maintain maximum damage
 SWEP.Range_Max = 480 // distance at which we drop to minimum damage
 SWEP.Penetration = 0.25 // units of metal this weapon can penetrate
-SWEP.Num = 8
+SWEP.Num = 6
 
 SWEP.BodyDamageMultipliers = {
     [HITGROUP_HEAD] = 1,
