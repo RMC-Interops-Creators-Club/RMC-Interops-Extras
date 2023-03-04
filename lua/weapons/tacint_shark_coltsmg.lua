@@ -18,8 +18,8 @@ SWEP.Slot = 2
 
 SWEP.Damage_Max = 100 / 5 // damage at minimum range
 SWEP.Damage_Min = 100 / 8 // damage at maximum range
-SWEP.Range_Min = 725 // distance for which to maintain maximum damage
-SWEP.Range_Max = 1500 // distance at which we drop to minimum damage
+SWEP.Range_Min = 600 // distance for which to maintain maximum damage
+SWEP.Range_Max = 1200 // distance at which we drop to minimum damage
 SWEP.Penetration = 2 // units of metal this weapon can penetrate
 
 // misc. shooting
@@ -202,7 +202,7 @@ SWEP.Attachments = {
     },
     [4] = {
         PrintName = "Perk",
-        Category = {"foldstock", "perk", "perk_melee", "perk_shooting", "perk_reload"},
+        Category = {"foldstock", "perk", "perk_melee", "perk_shooting", "perk_reload", "perk_hollowpoints"},
         AttachSound = "tacint/weapons/flashlight_on.wav",
         DetachSound = "tacint/weapons/flashlight_off.wav",
     },
