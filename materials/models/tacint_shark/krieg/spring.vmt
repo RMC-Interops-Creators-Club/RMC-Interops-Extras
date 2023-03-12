@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-	"$baseTexture" "models\tacint_shark\krieg\spring"
-	"$bumpmap" "models\tacint_shark\krieg\spring norm"
-	"$envmap" "env_cubemap"
-	"$normalmapalphaenvmapmask" 1
-}

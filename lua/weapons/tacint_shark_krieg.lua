@@ -34,7 +34,7 @@ SWEP.Spread = 0
 SWEP.MoveSpreadPenalty = 0.055 // spread penalty while travelling at max. 250 u/s
 SWEP.MidAirSpreadPenalty = 0.1 // spread penalty for being in the air
 SWEP.HipFireSpreadPenalty = 0.15 // spread penalty for not being scoped in
-SWEP.ScopedSpreadPenalty = 0.002
+SWEP.ScopedSpreadPenalty = 0.001
 SWEP.BlindFireSpreadPenalty = 0.05 // spread penalty for blind firing
 SWEP.CrouchSpreadPenalty = -0.002
 
@@ -219,7 +219,7 @@ SWEP.Attachments = {
     },
     [4] = {
         PrintName = "Perk",
-        Category = {"foldstock", "perk", "perk_melee", "perk_shooting", "perk_reload", "perk_tmj"},
+        Category = {"perk", "perk_melee", "perk_shooting", "perk_reload", "perk_tmj"},
         AttachSound = "tacint/weapons/flashlight_on.wav",
         DetachSound = "tacint/weapons/flashlight_off.wav",
     },

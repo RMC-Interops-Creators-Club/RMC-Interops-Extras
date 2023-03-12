@@ -1,7 +1,7 @@
 VertexLitGeneric
 {
 	"$baseTexture" "models\tacint_shark\krieg\mag"
-	"$translucent" 1	
+	"$translucent" 0	
 	"$bumpmap" "models\tacint_shark\krieg\map2 norm"
 	"$envmap" "env_cubemap"
 	"$normalmapalphaenvmapmask" 1
